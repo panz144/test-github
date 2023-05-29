@@ -7,5 +7,7 @@ int main()
     cout << "hello" << endl;
     cin >> x;
     cout << x << endl;
+    cin >> n;
+    cout << n;
     return 0;
 }
